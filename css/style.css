@@ -1,0 +1,44 @@
+.wrapper {
+    align-content: center;
+    justify-self: center;
+    justify-items: center;
+    width: 800px;
+    height: 900px;
+}
+.main {
+    font-size: 23px;
+    align-content: center;
+    width: 700px;
+    padding: 10px;
+}
+
+.subHeading {
+    align-items: center;
+    justify-items: center;
+    padding: 10px;
+}
+.content {
+    display: grid;
+    width: 500px;
+}
+.stats {
+    width: 250px;
+
+}
+.moves {
+    width: 250px;
+}
+
+h1 {
+    line-height: 10px;
+}
+
+h2 {
+    color: darkolivegreen;
+    font-weight: bold;
+}
+
+li {
+    line-height: 30px;
+    font-size: 20px;
+}
